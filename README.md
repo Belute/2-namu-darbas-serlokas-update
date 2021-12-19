@@ -9,9 +9,8 @@ _32 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
+Site published at: https://belute.github.io/2-serlokasupdate/
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
 ## Project features
 
