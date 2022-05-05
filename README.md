@@ -1,16 +1,12 @@
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
+
 
 # Serlokas
 
-_32 group website project_
 
-This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://belute.github.io/2-serlokasupdate/
+This project is for **educational** porpuses only. 
 
+Site published at: https://belute.github.io/Serlok_html_css/
 
 ## Project features
 
@@ -20,7 +16,7 @@ Site published at: https://belute.github.io/2-serlokasupdate/
 
 ## Authors
 
-Justinas: [Github](.......)
+Justinas: [Github](https://github.com/belute)
 
 ## Code sample
 
